@@ -1,0 +1,31 @@
+[
+
+{
+
+	"name":"Tianhua Huang",
+	"type":"Student",
+	"email":"1402971276@qq.com",
+	"classes":[608,617,820]
+
+},
+
+
+{
+
+	"name":"Joey Zheng",
+	"type":"Sister",
+	"email":"joey@art.net",
+	"classes":[601,608,617,820]
+
+},
+
+{
+
+	"name":"John Bing",
+	"type":"Singer",
+	"email":"johnbing@gamil.com",
+	"classes":[601,608,617,820]
+
+}
+
+]
